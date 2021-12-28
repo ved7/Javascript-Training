@@ -39,7 +39,7 @@ addNumber(2,3);
 
 <h3>Array Methods in js </h3>
 <p> Various array methods are present in javascript to make the life of programmer bit easier and reduces lines of codes and make its visibility better.</p>
-<li> forEach</li>
+<li> [forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)</li>
 <li> map</li>
 <li> some</li>
 <li> every</li>

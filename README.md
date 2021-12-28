@@ -39,10 +39,15 @@ addNumber(2,3);
 
 <h3>Array Methods in js </h3><br/>
  Various array methods are present in javascript to make the life of programmer bit easier and reduces lines of codes and make its visibility better.</p>
- [forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach) <br/>
- [map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)<br/>
- [some](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/some)<br/>
- [includes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)<br/>
- [every](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every)<br/>
-To know more about array methods,
-[Click Here](https://livecodestream.dev/post/15-must-know-javascript-array-methods/)
+ 
+[forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach) <br/>
+
+[map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)<br/>
+
+[some](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/some)<br/>
+
+[includes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)<br/>
+
+[every](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every)<br/>
+
+To know more about array methods, [Click Here](https://livecodestream.dev/post/15-must-know-javascript-array-methods/)

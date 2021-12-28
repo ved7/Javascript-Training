@@ -4,7 +4,8 @@ This repository is created in order to get yourself better at javascript.
 
 <h2>What is Javascript</h2>
  
- * Javascript is a programming language that adds interactivity to your website
+ * Javascript is a popular and widely used programming language that adds interactivity to your website
+ * Every browser has an engine that could run javascript code, example v8 in chrome.
  * It is single threaded, synchronous language which could be used to develop both frontend and backend.
  * It is already running in your browser on your computer or mobile.
  * It is used to create web, mobile and desktop application.

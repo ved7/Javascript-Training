@@ -10,7 +10,7 @@ This repository is created in order to get yourself better at javascript.
 
 <h2> Basics of Javascript syntax</h2>
 
-* Variable definition
+<h3> Variable definition</h3>
 <p>number, let x = 2; <br/>
    String, let x = "Hello World!"; <br/>
    Array,  let x = [1,2,3,4,5]; <br/>
@@ -39,11 +39,11 @@ addNumber(2,3);
 
 <h3>Array Methods in js </h3>
 <p> Various array methods are present in javascript to make the life of programmer bit easier and reduces lines of codes and make its visibility better.</p>
-<li> [forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)</li>
-<li> map</li>
-<li> some</li>
-<li> every</li>
-<li> reduce</li>
-<p>To know more about array methods
+ [forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach) <br/>
+ [map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)
+ [some](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/some)
+ [includes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
+ [every](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every)
+To know more about array methods,
 [Click Here](https://livecodestream.dev/post/15-must-know-javascript-array-methods/)
 </p>

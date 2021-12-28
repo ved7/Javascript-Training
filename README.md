@@ -17,7 +17,6 @@ This repository is created in order to get yourself better at javascript.
                 const x = "Hello World!; </p>
 
 <h4> Function Declaration & Definition</h4>
-function addNumbers(x,y){
-    return (x+y);
-}                
+<p> function addNumbers(x,y)<br />{ return (x+y);<br/>}<br/>                
 addNumber(2,3);
+</p>
